@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Fredrik
+Build-Jdk: 1.7.0_45
+Class-Path: rsyntaxtextarea-2.5.8.jar autocomplete-2.5.8.jar languages
+ upport-2.5.8.jar rhino-1.7.6.jar
+Created-By: Apache Maven 3.1.1
+Main-Class: com.crazedout.jgazm.editor.Editor
+Archiver-Version: Plexus Archiver
